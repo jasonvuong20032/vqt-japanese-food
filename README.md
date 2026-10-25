@@ -16,6 +16,7 @@ An online Japanese food store for the Vietnamese market: a storefront and a back
 | [docs/sequence-diagrams.md](docs/sequence-diagrams.md) | Sequence diagrams of the main flows |
 | [docs/use-cases.md](docs/use-cases.md) | Use case diagrams and specifications |
 | [docs/diagrams/](docs/diagrams/) | PNG exports of every diagram (for reports and slides) |
+| [CHANGELOG.md](CHANGELOG.md) | What changed and when: chatbot removal, translation updates in all 5 languages, rebuild milestones |
 
 ## Tech stack
 
