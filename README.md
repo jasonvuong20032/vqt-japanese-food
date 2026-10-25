@@ -6,6 +6,8 @@ An online Japanese food store for the Vietnamese market: a storefront and a back
 - **Back office** (`/admin`): revenue dashboard, orders, dishes (photos, translations, SEO), catalog, customers, coupons, reviews, Policies & FAQ, store settings, staff. Includes a "Translate with AI" button (optional, needs a Claude API key).
 - **Emails** for order confirmation, status updates and activation/password-reset codes: sent in the customer's language, with light and dark layouts.
 
+👤 **Author:** Vuong Quang Tuan · [Portfolio](https://github.com/jasonvuong20032/jasonvuong) · [Project write-up](https://github.com/jasonvuong20032/jasonvuong/blob/main/projects/vqt-japanese-food.md) · [Certificates](https://github.com/jasonvuong20032/certificate-portfolio)
+
 ## Documentation
 
 | Document | Contents |
