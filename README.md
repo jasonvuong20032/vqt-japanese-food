@@ -46,11 +46,9 @@ An online Japanese food store built for the Vietnamese market (prices in VND, ca
 
 ### 🌏 5 languages · 4 themes
 
-| | |
-|---|---|
-| **Languages** | 🇻🇳 Vietnamese (default) · 🇬🇧 English · 🇯🇵 Japanese · 🇰🇷 Korean · 🇫🇷 French |
-| **Themes** | ☀️ Light · 🌙 Dark · 🌊 Ocean · 🌌 Midnight |
-| **What is translated** | The interface, menu content, policies and every customer email |
+| 🗣️ Languages | 🎨 Themes | 📄 What is translated |
+|---|---|---|
+| **Vietnamese** (default), **English**, **Japanese**, **Korean**, **French** | **Light**, **Dark**, **Ocean**, **Midnight** | The interface, menu content, policies and every customer email |
 
 ### ✉️ Customer emails
 - **Order confirmation**, **status updates**, **activation** and **password-reset** codes, in the customer's language, with a dark-mode layout
