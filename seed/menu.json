@@ -1,0 +1,1078 @@
+{
+  "catalogs": [
+    {
+      "id": 4, "slug": "sushi-sashimi", "sortOrder": 1, "cover": "sashimi-moriawase.jpg",
+      "name": { "vi": "Sushi & Sashimi", "en": "Sushi & Sashimi", "ja": "寿司・刺身", "ko": "스시 & 사시미", "fr": "Sushis & sashimis" },
+      "description": {
+        "vi": "Cá tươi được sơ chế mỗi ngày, cơm sushi trộn giấm theo phong cách Edomae.",
+        "en": "Fish prepared fresh every day, with rice seasoned in the Edomae style.",
+        "ja": "毎日仕込む鮮魚と、江戸前の酢飯。",
+        "ko": "매일 손질하는 신선한 생선과 에도마에 방식의 초밥.",
+        "fr": "Du poisson préparé chaque jour et un riz assaisonné à la façon Edomae."
+      },
+      "categories": [
+        {
+          "key": "nigiri", "id": 1, "sortOrder": 1,
+          "name": { "vi": "Nigiri", "en": "Nigiri", "ja": "握り寿司", "ko": "니기리", "fr": "Nigiris" },
+          "description": {
+            "vi": "Một lát cá, một nắm cơm — sự cân bằng tinh tế nhất của sushi.",
+            "en": "One slice of fish on hand-pressed rice: sushi at its purest.",
+            "ja": "ネタとシャリ、ひとつの調和。",
+            "ko": "생선 한 점과 손으로 쥔 밥, 가장 순수한 스시.",
+            "fr": "Une tranche de poisson sur du riz pressé à la main : le sushi à l'état pur."
+          }
+        },
+        {
+          "key": "sashimi", "id": 7, "sortOrder": 2,
+          "name": { "vi": "Sashimi cao cấp", "en": "Premium sashimi", "ja": "特選刺身", "ko": "프리미엄 사시미", "fr": "Sashimis d'exception" },
+          "description": {
+            "vi": "Những phần thịt cá thượng hạng, cắt dày, ăn kèm wasabi.",
+            "en": "Prime cuts sliced generously and served with wasabi.",
+            "ja": "厳選した部位を厚切りで、わさびとともに。",
+            "ko": "엄선한 부위를 두툼하게 썰어 와사비와 함께.",
+            "fr": "Des morceaux de choix généreusement tranchés, servis avec du wasabi."
+          }
+        },
+        {
+          "key": "maki", "sortOrder": 3,
+          "name": { "vi": "Maki cuộn & Gunkan", "en": "Rolls & gunkan", "ja": "巻き寿司・軍艦", "ko": "마키 & 군칸", "fr": "Makis & gunkans" },
+          "description": {
+            "vi": "Cuộn sáng tạo và gunkan rong biển giòn với trứng cá, nhím biển.",
+            "en": "Creative rolls and crisp nori-wrapped gunkan topped with roe and sea urchin.",
+            "ja": "創作巻きと、いくら・うにの軍艦巻き。",
+            "ko": "창작 롤과 연어알·성게를 올린 군칸말이.",
+            "fr": "Rouleaux créatifs et gunkans croustillants garnis d'œufs de poisson et d'oursin."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1, "slug": "mon-chinh", "sortOrder": 2, "cover": "wagyu-a5.jpg",
+      "name": { "vi": "Món chính", "en": "Main dishes", "ja": "お食事", "ko": "메인 요리", "fr": "Plats" },
+      "description": {
+        "vi": "Cơm donburi đầy đặn và các món nướng đậm vị.",
+        "en": "Hearty donburi bowls and richly flavoured grilled plates.",
+        "ja": "ボリュームある丼と、香ばしい焼き物。",
+        "ko": "든든한 덮밥과 풍미 가득한 구이.",
+        "fr": "De généreux bols de donburi et des grillades pleines de saveur."
+      },
+      "categories": [
+        {
+          "key": "rice", "id": 2, "sortOrder": 1,
+          "name": { "vi": "Cơm & Donburi", "en": "Rice bowls", "ja": "丼もの", "ko": "덮밥", "fr": "Bols de riz" },
+          "description": {
+            "vi": "Cơm Nhật dẻo thơm phủ topping hảo hạng.",
+            "en": "Fluffy Japanese rice crowned with generous toppings.",
+            "ja": "ふっくらご飯に、たっぷりの具を。",
+            "ko": "찰진 일본 쌀 위에 푸짐한 토핑.",
+            "fr": "Du riz japonais moelleux couronné de garnitures généreuses."
+          }
+        },
+        {
+          "key": "grill", "id": 3, "sortOrder": 2,
+          "name": { "vi": "Món nướng", "en": "Grill & robata", "ja": "焼き物", "ko": "구이", "fr": "Grillades" },
+          "description": {
+            "vi": "Xiên nướng yakitori, hải sản nướng và bò Wagyu.",
+            "en": "Yakitori skewers, grilled seafood and wagyu beef.",
+            "ja": "焼き鳥、魚介の焼き物、そして和牛。",
+            "ko": "야키토리 꼬치, 해산물 구이, 와규.",
+            "fr": "Brochettes yakitori, fruits de mer grillés et bœuf wagyu."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3, "slug": "mi-nhat", "sortOrder": 3, "cover": "tonkotsu-ramen.jpg",
+      "name": { "vi": "Mì Nhật", "en": "Noodles", "ja": "麺類", "ko": "면 요리", "fr": "Nouilles" },
+      "description": {
+        "vi": "Ramen với nước dùng hầm lâu, sợi mì dai và topping đầy đặn.",
+        "en": "Ramen with long-simmered broths, springy noodles and generous toppings.",
+        "ja": "じっくり煮込んだスープとコシのある麺。",
+        "ko": "오래 끓인 육수와 쫄깃한 면, 푸짐한 토핑의 라멘.",
+        "fr": "Des ramen aux bouillons longuement mijotés et aux nouilles fermes."
+      },
+      "categories": [
+        {
+          "key": "ramen", "id": 6, "sortOrder": 1,
+          "name": { "vi": "Ramen", "en": "Ramen", "ja": "ラーメン", "ko": "라멘", "fr": "Ramen" },
+          "description": {
+            "vi": "Bốn vị nước dùng kinh điển: tonkotsu, shoyu, miso và shio.",
+            "en": "Four classic broths: tonkotsu, shoyu, miso and shio.",
+            "ja": "豚骨・醤油・味噌・塩、四つの味。",
+            "ko": "돈코츠·쇼유·미소·시오, 네 가지 국물.",
+            "fr": "Quatre bouillons classiques : tonkotsu, shoyu, miso et shio."
+          }
+        }
+      ]
+    },
+    {
+      "id": 6, "slug": "bento", "sortOrder": 4, "cover": "sashimi-bento.jpg",
+      "name": { "vi": "Bento", "en": "Bento", "ja": "弁当", "ko": "벤토", "fr": "Bento" },
+      "description": {
+        "vi": "Hộp cơm Nhật đầy đủ, tiện mang đi.",
+        "en": "Complete Japanese meal boxes, ready to go.",
+        "ja": "持ち帰りにも便利な、満足の弁当。",
+        "ko": "포장하기 좋은 알찬 일본식 도시락.",
+        "fr": "Des coffrets-repas japonais complets, à emporter."
+      },
+      "categories": [
+        {
+          "key": "bento", "id": 9, "sortOrder": 1,
+          "name": { "vi": "Bento", "en": "Bento", "ja": "弁当", "ko": "벤토", "fr": "Bento" },
+          "description": {
+            "vi": "Sashimi, lươn, bò hay heo — mỗi hộp là một bữa trọn vẹn.",
+            "en": "Sashimi, eel, beef or pork: each box is a full meal.",
+            "ja": "刺身、うなぎ、牛、豚。どれも一食分。",
+            "ko": "사시미, 장어, 소고기, 돼지고기 — 한 끼 식사.",
+            "fr": "Sashimi, anguille, bœuf ou porc : chaque boîte est un repas complet."
+          }
+        }
+      ]
+    },
+    {
+      "id": 5, "slug": "trang-mieng", "sortOrder": 5, "cover": "matcha-parfait.jpg",
+      "name": { "vi": "Tráng miệng", "en": "Desserts", "ja": "デザート", "ko": "디저트", "fr": "Desserts" },
+      "description": {
+        "vi": "Matcha, mochi và kem Nhật — kết thúc ngọt ngào cho bữa ăn.",
+        "en": "Matcha, mochi and Japanese ice cream for a sweet finish.",
+        "ja": "抹茶、もち、アイスで締めくくり。",
+        "ko": "말차, 모찌, 일본식 아이스크림으로 달콤한 마무리.",
+        "fr": "Matcha, mochis et glaces japonaises pour finir en douceur."
+      },
+      "categories": [
+        {
+          "key": "wagashi", "id": 8, "sortOrder": 1,
+          "name": { "vi": "Mochi & bánh Nhật", "en": "Mochi & wagashi", "ja": "和菓子", "ko": "모찌 & 화과자", "fr": "Mochis & wagashi" },
+          "description": {
+            "vi": "Wagashi truyền thống: daifuku, dango, dorayaki, taiyaki.",
+            "en": "Traditional wagashi: daifuku, dango, dorayaki and taiyaki.",
+            "ja": "大福、団子、どら焼き、たい焼き。",
+            "ko": "다이후쿠, 당고, 도라야키, 타이야키.",
+            "fr": "Wagashi traditionnels : daifuku, dango, dorayaki et taiyaki."
+          }
+        },
+        {
+          "key": "icecream", "sortOrder": 2,
+          "name": { "vi": "Kem Nhật", "en": "Japanese ice cream", "ja": "アイス・パフェ", "ko": "아이스크림", "fr": "Glaces japonaises" },
+          "description": {
+            "vi": "Kem matcha, mè đen, mochi kem và parfait.",
+            "en": "Matcha, black sesame, mochi ice cream and parfaits.",
+            "ja": "抹茶、黒ごま、もちアイス、パフェ。",
+            "ko": "말차, 흑임자, 모찌 아이스크림과 파르페.",
+            "fr": "Matcha, sésame noir, mochis glacés et parfaits."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2, "slug": "do-uong", "sortOrder": 6, "cover": "sake-daiginjo.jpg",
+      "name": { "vi": "Đồ uống", "en": "Drinks", "ja": "ドリンク", "ko": "음료", "fr": "Boissons" },
+      "description": {
+        "vi": "Sake, umeshu, bia Nhật và nước giải khát.",
+        "en": "Sake, umeshu, Japanese beer and soft drinks.",
+        "ja": "日本酒、梅酒、ビール、ソフトドリンク。",
+        "ko": "사케, 매실주, 일본 맥주, 음료.",
+        "fr": "Saké, umeshu, bières japonaises et boissons fraîches."
+      },
+      "categories": [
+        {
+          "key": "sake", "sortOrder": 1,
+          "name": { "vi": "Sake & rượu Nhật", "en": "Sake & Japanese spirits", "ja": "日本酒・梅酒", "ko": "사케 & 일본 술", "fr": "Saké & spiritueux japonais" },
+          "description": {
+            "vi": "Sake tuyển chọn và rượu mơ umeshu. Chỉ phục vụ khách từ 18 tuổi trở lên.",
+            "en": "Selected sake and umeshu. Served to guests aged 18 and over only.",
+            "ja": "厳選した日本酒と梅酒。18歳未満の方には販売いたしません。",
+            "ko": "엄선한 사케와 매실주. 18세 이상만 주문할 수 있습니다.",
+            "fr": "Sakés sélectionnés et umeshu. Réservé aux personnes de 18 ans et plus."
+          }
+        },
+        {
+          "key": "beer", "id": 5, "sortOrder": 2,
+          "name": { "vi": "Bia Nhật", "en": "Japanese beer", "ja": "ビール", "ko": "일본 맥주", "fr": "Bières japonaises" },
+          "description": {
+            "vi": "Lager Nhật mát lạnh. Chỉ phục vụ khách từ 18 tuổi trở lên.",
+            "en": "Ice-cold Japanese lagers. Served to guests aged 18 and over only.",
+            "ja": "キンと冷えた日本のビール。18歳未満の方には販売いたしません。",
+            "ko": "시원한 일본 라거. 18세 이상만 주문할 수 있습니다.",
+            "fr": "Lagers japonaises bien fraîches. Réservé aux personnes de 18 ans et plus."
+          }
+        },
+        {
+          "key": "soft", "id": 4, "sortOrder": 3,
+          "name": { "vi": "Nước giải khát", "en": "Soft drinks", "ja": "ソフトドリンク", "ko": "소프트 드링크", "fr": "Boissons fraîches" },
+          "description": {
+            "vi": "Nước ngọt và đồ uống Nhật không cồn.",
+            "en": "Sodas and alcohol-free Japanese drinks.",
+            "ja": "ノンアルコールのドリンク。",
+            "ko": "탄산음료와 무알코올 일본 음료.",
+            "fr": "Sodas et boissons japonaises sans alcool."
+          }
+        }
+      ]
+    }
+  ],
+
+  "products": [
+    {
+      "code": "JF-SASH-OTORO", "category": "sashimi", "price": 890000, "stock": 20,
+      "tags": ["premium", "chef-choice", "raw", "seafood"], "image": "otoro-sashimi.jpg",
+      "name": { "vi": "Sashimi Otoro", "en": "Otoro Sashimi", "ja": "大トロ刺身", "ko": "오도로 사시미", "fr": "Sashimi d'otoro" },
+      "short": {
+        "vi": "Phần bụng cá ngừ béo nhất, vân mỡ như cẩm thạch, tan ngay trong miệng. 5 lát.",
+        "en": "The fattiest cut of tuna belly, marbled like wagyu and melting on the tongue. 5 slices.",
+        "ja": "鮪の腹身で最も脂ののった部位。口の中でとろける味わい。5切れ。",
+        "ko": "참치 뱃살 중 가장 기름진 부위, 입에서 녹는 맛. 5점.",
+        "fr": "La partie la plus grasse de la ventrèche de thon, persillée et fondante. 5 tranches."
+      }
+    },
+    {
+      "code": "JF-SASH-CHUTORO", "category": "sashimi", "price": 590000, "stock": 25,
+      "tags": ["premium", "raw", "seafood"], "image": "chutoro-sashimi.jpg",
+      "name": { "vi": "Sashimi Chutoro", "en": "Chutoro Sashimi", "ja": "中トロ刺身", "ko": "주도로 사시미", "fr": "Sashimi de chutoro" },
+      "short": {
+        "vi": "Bụng cá ngừ béo vừa, cân bằng giữa vị ngọt của thịt đỏ và độ béo. 5 lát.",
+        "en": "Medium-fatty tuna belly balancing lean sweetness and richness. 5 slices.",
+        "ja": "赤身の旨みと脂の甘みのバランスが絶妙。5切れ。",
+        "ko": "살코기의 감칠맛과 기름진 맛이 조화로운 참치 뱃살. 5점.",
+        "fr": "Ventrèche de thon mi-grasse, entre douceur et onctuosité. 5 tranches."
+      }
+    },
+    {
+      "code": "JF-SASH-HAMACHI", "category": "sashimi", "price": 259000, "stock": 30,
+      "tags": ["raw", "seafood"], "image": "hamachi-sashimi.jpg",
+      "name": { "vi": "Sashimi cá cam Hamachi", "en": "Hamachi Sashimi", "ja": "はまち刺身", "ko": "하마치 사시미", "fr": "Sashimi de hamachi" },
+      "short": {
+        "vi": "Cá cam Nhật thịt chắc, béo nhẹ, hậu vị ngọt thanh.",
+        "en": "Japanese yellowtail: firm, lightly buttery, with a clean sweet finish.",
+        "ja": "身が締まり、ほどよい脂とすっきりした甘み。",
+        "ko": "탄탄한 살과 은은한 기름기, 깔끔한 단맛의 방어.",
+        "fr": "Sériole japonaise ferme, légèrement beurrée, à la finale douce."
+      }
+    },
+    {
+      "code": "JF-SASH-HOTATE", "category": "sashimi", "price": 289000, "stock": 30,
+      "tags": ["premium", "raw", "seafood"], "image": "hotate-sashimi.jpg",
+      "name": { "vi": "Sashimi sò điệp Hotate", "en": "Hotate Scallop Sashimi", "ja": "帆立刺身", "ko": "가리비 사시미", "fr": "Sashimi de Saint-Jacques" },
+      "short": {
+        "vi": "Cồi sò điệp ngọt tự nhiên, mềm mịn, cắt dày.",
+        "en": "Naturally sweet, silky scallops, thickly sliced.",
+        "ja": "甘みのある肉厚な帆立を厚切りで。",
+        "ko": "자연스러운 단맛의 부드러운 가리비 관자를 두툼하게.",
+        "fr": "Noix de Saint-Jacques naturellement sucrées et soyeuses, en tranches épaisses."
+      }
+    },
+    {
+      "code": "JF-SASH-BOTANEBI", "category": "sashimi", "price": 349000, "stock": 20,
+      "tags": ["premium", "raw", "seafood"], "image": "botan-ebi.jpg",
+      "name": { "vi": "Tôm ngọt Botan Ebi", "en": "Botan Ebi Sweet Shrimp", "ja": "ぼたん海老", "ko": "보탄 새우", "fr": "Crevette botan ebi" },
+      "short": {
+        "vi": "Tôm botan sống thịt dày, ngọt lịm, phục vụ nguyên con.",
+        "en": "Large raw botan shrimp, plump and intensely sweet, served whole.",
+        "ja": "肉厚で甘みの強いぼたん海老を姿造りで。",
+        "ko": "통통하고 단맛이 진한 보탄 새우를 통째로.",
+        "fr": "Grosse crevette crue, charnue et très sucrée, servie entière."
+      }
+    },
+    {
+      "code": "JF-SASH-MORIAWASE", "category": "sashimi", "price": 1290000, "salePrice": 1190000, "stock": 15,
+      "tags": ["premium", "chef-choice", "sharing", "raw", "seafood"], "image": "sashimi-moriawase.jpg",
+      "name": { "vi": "Sashimi Moriawase thượng hạng", "en": "Premium Sashimi Moriawase", "ja": "特選刺身盛り合わせ", "ko": "특선 사시미 모둠", "fr": "Moriawase de sashimis" },
+      "short": {
+        "vi": "Đĩa tổng hợp 5 loại cá do bếp trưởng chọn theo mùa, dành cho 2–3 người.",
+        "en": "The chef's selection of five seasonal fish, for 2–3 people.",
+        "ja": "料理長が選ぶ旬の五種盛り。2〜3人前。",
+        "ko": "셰프가 고른 제철 생선 5종, 2~3인분.",
+        "fr": "Sélection du chef de cinq poissons de saison, pour 2 à 3 personnes."
+      }
+    },
+    {
+      "code": "JF-NIGI-OTORO", "category": "nigiri", "price": 259000, "stock": 25,
+      "tags": ["premium", "chef-choice", "raw", "seafood"], "image": "otoro-nigiri.jpg",
+      "name": { "vi": "Nigiri Otoro", "en": "Otoro Nigiri", "ja": "大トロ握り", "ko": "오도로 니기리", "fr": "Nigiri d'otoro" },
+      "short": {
+        "vi": "Hai miếng nigiri bụng cá ngừ béo, phết nhẹ nước tương nikiri.",
+        "en": "Two pieces of fatty tuna belly, brushed with nikiri soy.",
+        "ja": "大トロの握り二貫。煮切り醤油で。",
+        "ko": "기름진 참치 뱃살 니기리 2피스, 니키리 간장을 발라.",
+        "fr": "Deux nigiris de ventrèche de thon, nappés de sauce soja nikiri."
+      }
+    },
+    {
+      "code": "JF-NIGI-ABURI", "category": "nigiri", "price": 89000, "salePrice": 79000, "stock": 50,
+      "tags": ["chef-choice", "seafood"], "image": "aburi-salmon-nigiri.jpg",
+      "name": { "vi": "Nigiri cá hồi khò lửa Aburi", "en": "Aburi Salmon Nigiri", "ja": "炙りサーモン握り", "ko": "아부리 연어 니기리", "fr": "Nigiri de saumon aburi" },
+      "short": {
+        "vi": "Cá hồi khò lửa thơm mùi khói, sốt mayo nhẹ và chanh vàng. 2 miếng.",
+        "en": "Flame-seared salmon with a smoky edge, light mayo and lemon. 2 pieces.",
+        "ja": "香ばしく炙ったサーモン、マヨとレモンで。二貫。",
+        "ko": "불에 그을린 연어에 마요와 레몬. 2피스.",
+        "fr": "Saumon flambé au chalumeau, touche de mayonnaise et de citron. 2 pièces."
+      }
+    },
+    {
+      "code": "JF-NIGI-EBI", "category": "nigiri", "price": 69000, "stock": 50,
+      "tags": ["seafood"], "image": "ebi-nigiri.jpg",
+      "name": { "vi": "Nigiri tôm Ebi", "en": "Ebi Shrimp Nigiri", "ja": "海老握り", "ko": "에비 니기리", "fr": "Nigiri de crevette" },
+      "short": {
+        "vi": "Tôm luộc vừa chín tới, ngọt và giòn. 2 miếng.",
+        "en": "Poached shrimp, sweet and snappy. 2 pieces.",
+        "ja": "ぷりっと甘い茹で海老。二貫。",
+        "ko": "탱글하고 달콤한 새우. 2피스.",
+        "fr": "Crevette pochée, sucrée et croquante. 2 pièces."
+      }
+    },
+    {
+      "code": "JF-NIGI-TAMAGO", "category": "nigiri", "price": 49000, "stock": 60,
+      "tags": ["vegetarian"], "image": "tamago-nigiri.jpg",
+      "name": { "vi": "Nigiri trứng cuộn Tamago", "en": "Tamago Nigiri", "ja": "玉子握り", "ko": "타마고 니기리", "fr": "Nigiri tamago" },
+      "short": {
+        "vi": "Trứng cuộn kiểu Nhật ngọt nhẹ, mềm xốp. 2 miếng.",
+        "en": "Sweet, fluffy Japanese rolled omelette. 2 pieces.",
+        "ja": "ほんのり甘いふわふわの玉子焼き。二貫。",
+        "ko": "은은하게 달콤하고 폭신한 일본식 계란말이. 2피스.",
+        "fr": "Omelette japonaise roulée, moelleuse et légèrement sucrée. 2 pièces."
+      }
+    },
+    {
+      "code": "JF-NIGI-HOTATE", "category": "nigiri", "price": 119000, "stock": 40,
+      "tags": ["seafood"], "image": "hotate-nigiri.jpg",
+      "name": { "vi": "Nigiri sò điệp", "en": "Scallop Nigiri", "ja": "帆立握り", "ko": "가리비 니기리", "fr": "Nigiri de Saint-Jacques" },
+      "short": {
+        "vi": "Sò điệp ngọt mềm trên cơm sushi, điểm củ cải và trứng cá. 2 miếng.",
+        "en": "Sweet, tender scallop on sushi rice with radish and roe. 2 pieces.",
+        "ja": "甘くやわらかな帆立。二貫。",
+        "ko": "달콤하고 부드러운 가리비. 2피스.",
+        "fr": "Saint-Jacques tendre et sucrée sur riz à sushi, radis et œufs de poisson. 2 pièces."
+      }
+    },
+    {
+      "code": "JF-NIGI-HAMACHI", "category": "nigiri", "price": 99000, "stock": 40,
+      "tags": ["raw", "seafood"], "image": "hamachi-nigiri.jpg",
+      "name": { "vi": "Nigiri cá cam Hamachi", "en": "Hamachi Nigiri", "ja": "はまち握り", "ko": "하마치 니기리", "fr": "Nigiri de hamachi" },
+      "short": {
+        "vi": "Cá cam béo nhẹ, ăn kèm gừng hồng. 2 miếng.",
+        "en": "Lightly rich yellowtail with pickled ginger. 2 pieces.",
+        "ja": "ほどよい脂のはまち。二貫。",
+        "ko": "은은하게 고소한 방어. 2피스.",
+        "fr": "Sériole délicatement grasse, gingembre mariné. 2 pièces."
+      }
+    },
+    {
+      "code": "JF-GUN-UNI", "category": "maki", "price": 289000, "stock": 20,
+      "tags": ["premium", "chef-choice", "seafood"], "image": "uni-gunkan.jpg",
+      "name": { "vi": "Gunkan nhím biển Uni", "en": "Uni Gunkan", "ja": "うに軍艦", "ko": "우니 군칸", "fr": "Gunkan d'oursin" },
+      "short": {
+        "vi": "Nhím biển vàng óng, béo ngậy trên cơm bọc rong biển giòn. 2 miếng.",
+        "en": "Rich golden sea urchin on rice wrapped in crisp nori. 2 pieces.",
+        "ja": "濃厚なうにをたっぷりと。二貫。",
+        "ko": "진하고 고소한 성게알 군칸말이. 2피스.",
+        "fr": "Oursin doré et onctueux sur riz enveloppé de nori croustillant. 2 pièces."
+      }
+    },
+    {
+      "code": "JF-GUN-IKURA", "category": "maki", "price": 139000, "stock": 30,
+      "tags": ["seafood"], "image": "ikura-gunkan.jpg",
+      "name": { "vi": "Gunkan trứng cá hồi Ikura", "en": "Ikura Gunkan", "ja": "いくら軍艦", "ko": "이쿠라 군칸", "fr": "Gunkan d'ikura" },
+      "short": {
+        "vi": "Trứng cá hồi ngâm tương, mọng và vỡ tan trong miệng. 2 miếng.",
+        "en": "Soy-marinated salmon roe that pops on the tongue. 2 pieces.",
+        "ja": "醤油漬けのいくら。二貫。",
+        "ko": "간장에 절인 연어알, 톡톡 터지는 식감. 2피스.",
+        "fr": "Œufs de saumon marinés au soja qui éclatent en bouche. 2 pièces."
+      }
+    },
+    {
+      "code": "JF-MAKI-CALI", "category": "maki", "price": 129000, "salePrice": 115000, "stock": 40,
+      "tags": ["seafood"], "image": "california-roll.jpg",
+      "name": { "vi": "California Roll", "en": "California Roll", "ja": "カリフォルニアロール", "ko": "캘리포니아 롤", "fr": "California roll" },
+      "short": {
+        "vi": "Cua, bơ và dưa leo cuộn ngược, phủ trứng cá chuồn. 8 miếng.",
+        "en": "Crab, avocado and cucumber rolled inside-out in flying-fish roe. 8 pieces.",
+        "ja": "カニ、アボカド、きゅうりの裏巻き。8貫。",
+        "ko": "게살, 아보카도, 오이를 넣은 롤. 8피스.",
+        "fr": "Crabe, avocat et concombre, roulé à l'envers dans des œufs de poisson volant. 8 pièces."
+      }
+    },
+    {
+      "code": "JF-MAKI-SPICYTUNA", "category": "maki", "price": 149000, "stock": 40,
+      "tags": ["spicy", "seafood"], "image": "spicy-tuna-roll.jpg",
+      "name": { "vi": "Spicy Tuna Roll", "en": "Spicy Tuna Roll", "ja": "スパイシーツナロール", "ko": "스파이시 참치 롤", "fr": "Spicy tuna roll" },
+      "short": {
+        "vi": "Cá ngừ trộn sốt cay, hành lá và mè rang. 8 miếng.",
+        "en": "Tuna in spicy sauce with scallions and toasted sesame. 8 pieces.",
+        "ja": "ピリ辛ソースの鮪とねぎ、ごま。8貫。",
+        "ko": "매콤한 소스의 참치와 쪽파, 깨. 8피스.",
+        "fr": "Thon en sauce épicée, ciboule et sésame grillé. 8 pièces."
+      }
+    },
+    {
+      "code": "JF-MAKI-DRAGON", "category": "maki", "price": 219000, "stock": 30,
+      "tags": ["chef-choice", "seafood"], "image": "dragon-roll.jpg",
+      "name": { "vi": "Dragon Roll", "en": "Dragon Roll", "ja": "ドラゴンロール", "ko": "드래곤 롤", "fr": "Dragon roll" },
+      "short": {
+        "vi": "Tôm tempura bên trong, phủ lươn nướng và bơ, rưới sốt kabayaki. 8 miếng.",
+        "en": "Shrimp tempura inside, topped with grilled eel and avocado, finished with kabayaki glaze. 8 pieces.",
+        "ja": "海老天を巻き、うなぎとアボカドをのせて蒲焼きのたれで。8貫。",
+        "ko": "새우튀김을 넣고 장어와 아보카도를 올린 뒤 가바야키 소스. 8피스.",
+        "fr": "Tempura de crevette, recouvert d'anguille grillée et d'avocat, glacé à la sauce kabayaki. 8 pièces."
+      }
+    },
+    {
+      "code": "JF-MAKI-RAINBOW", "category": "maki", "price": 239000, "stock": 30,
+      "tags": ["raw", "seafood"], "image": "rainbow-roll.jpg",
+      "name": { "vi": "Rainbow Roll", "en": "Rainbow Roll", "ja": "レインボーロール", "ko": "레인보우 롤", "fr": "Rainbow roll" },
+      "short": {
+        "vi": "California roll phủ cá hồi, cá ngừ, cá trắng và bơ như cầu vồng. 8 miếng.",
+        "en": "A California roll draped in salmon, tuna, white fish and avocado. 8 pieces.",
+        "ja": "サーモン、鮪、白身、アボカドをのせた虹色のロール。8貫。",
+        "ko": "연어, 참치, 흰살생선, 아보카도를 올린 무지개 롤. 8피스.",
+        "fr": "California roll habillé de saumon, thon, poisson blanc et avocat. 8 pièces."
+      }
+    },
+    {
+      "code": "JF-MAKI-FUTOMAKI", "category": "maki", "price": 159000, "stock": 30,
+      "tags": ["sharing"], "image": "futomaki.jpg",
+      "name": { "vi": "Futomaki", "en": "Futomaki", "ja": "太巻き", "ko": "후토마키", "fr": "Futomaki" },
+      "short": {
+        "vi": "Cuộn lớn truyền thống với trứng tamago, rau củ và cá. 8 miếng.",
+        "en": "Traditional thick roll with tamago, vegetables and fish. 8 pieces.",
+        "ja": "玉子、野菜、魚を巻いた伝統の太巻き。8貫。",
+        "ko": "타마고, 채소, 생선을 넣은 전통 굵은 김밥. 8피스.",
+        "fr": "Gros rouleau traditionnel au tamago, légumes et poisson. 8 pièces."
+      }
+    },
+    {
+      "code": "JF-MAKI-TEMAKI", "category": "maki", "price": 99000, "stock": 40,
+      "tags": ["raw", "seafood"], "image": "temaki.jpg",
+      "name": { "vi": "Temaki cá hồi & trứng cá", "en": "Salmon & Ikura Temaki", "ja": "サーモンいくら手巻き", "ko": "연어 & 이쿠라 테마키", "fr": "Temaki saumon & ikura" },
+      "short": {
+        "vi": "Cuộn tay hình nón với cá hồi, bơ và trứng cá hồi.",
+        "en": "Hand-rolled cone with salmon, avocado and salmon roe.",
+        "ja": "サーモン、アボカド、いくらの手巻き。",
+        "ko": "연어, 아보카도, 연어알을 넣은 손말이.",
+        "fr": "Cornet roulé à la main : saumon, avocat et œufs de saumon."
+      }
+    },
+    {
+      "code": "JF-DON-CHIRASHI", "category": "rice", "price": 349000, "salePrice": 319000, "stock": 25,
+      "tags": ["premium", "raw", "seafood"], "image": "chirashi-don.jpg",
+      "name": { "vi": "Chirashi Don thượng hạng", "en": "Premium Chirashi Don", "ja": "特上ちらし丼", "ko": "특선 지라시동", "fr": "Chirashi don premium" },
+      "short": {
+        "vi": "Bát cơm sushi phủ đầy sashimi tổng hợp, trứng tamago và trứng cá.",
+        "en": "A bowl of sushi rice heaped with assorted sashimi, tamago and roe.",
+        "ja": "酢飯の上に刺身、玉子、魚卵をたっぷりと。",
+        "ko": "초밥 위에 모둠 사시미, 타마고, 생선알을 듬뿍.",
+        "fr": "Bol de riz vinaigré garni de sashimis variés, de tamago et d'œufs de poisson."
+      }
+    },
+    {
+      "code": "JF-GRILL-YAKITORI", "category": "grill", "price": 159000, "salePrice": 139000, "stock": 40,
+      "tags": ["grilled", "chicken"], "image": "yakitori.jpg",
+      "name": { "vi": "Yakitori tổng hợp", "en": "Yakitori Moriawase", "ja": "焼き鳥盛り合わせ", "ko": "야키토리 모둠", "fr": "Assortiment de yakitori" },
+      "short": {
+        "vi": "5 xiên gà nướng sốt tare: đùi, hành boa-rô, da giòn, tim và tsukune.",
+        "en": "Five chicken skewers glazed with tare: thigh, leek, crispy skin, heart and tsukune.",
+        "ja": "もも、ねぎま、皮、ハツ、つくねの五本盛り。",
+        "ko": "닭다리살, 대파, 껍질, 염통, 츠쿠네 꼬치 5개.",
+        "fr": "Cinq brochettes de poulet laquées à la sauce tare : cuisse, poireau, peau croustillante, cœur et tsukune."
+      }
+    },
+    {
+      "code": "JF-GRILL-TSUKUNE", "category": "grill", "price": 79000, "stock": 50,
+      "tags": ["grilled", "chicken"], "image": "tsukune.jpg",
+      "name": { "vi": "Tsukune — chả gà xiên nướng", "en": "Tsukune Chicken Skewers", "ja": "つくね", "ko": "츠쿠네", "fr": "Tsukune" },
+      "short": {
+        "vi": "Chả gà viên nướng sốt tare ngọt mặn, chấm lòng đỏ trứng. 2 xiên.",
+        "en": "Chicken meatball skewers in sweet-savoury tare, dipped in egg yolk. 2 skewers.",
+        "ja": "甘辛だれの鶏つくね、卵黄を添えて。2本。",
+        "ko": "달콤짭짤한 소스의 닭고기 완자 꼬치, 노른자 곁들임. 2개.",
+        "fr": "Brochettes de boulettes de poulet sauce tare, à tremper dans le jaune d'œuf. 2 brochettes."
+      }
+    },
+    {
+      "code": "JF-GRILL-GYUTAN", "category": "grill", "price": 289000, "stock": 25,
+      "tags": ["grilled", "beef"], "image": "gyutan.jpg",
+      "name": { "vi": "Gyutan — lưỡi bò nướng muối", "en": "Gyutan Grilled Beef Tongue", "ja": "牛タン塩焼き", "ko": "규탄 소금구이", "fr": "Gyutan" },
+      "short": {
+        "vi": "Lưỡi bò thái dày nướng muối tiêu, giòn sần sật, ăn kèm chanh.",
+        "en": "Thick-cut beef tongue grilled with salt and pepper, served with lemon.",
+        "ja": "厚切り牛タンを塩胡椒で焼き上げ、レモンを添えて。",
+        "ko": "두툼한 소혀를 소금과 후추로 구워 레몬과 함께.",
+        "fr": "Langue de bœuf en tranches épaisses, grillée au sel et au poivre, citron."
+      }
+    },
+    {
+      "code": "JF-GRILL-UNAGI", "category": "grill", "price": 389000, "stock": 20,
+      "tags": ["premium", "grilled", "seafood"], "image": "unagi-kabayaki.jpg",
+      "name": { "vi": "Unagi Kabayaki — lươn Nhật nướng", "en": "Unagi Kabayaki", "ja": "うなぎ蒲焼き", "ko": "우나기 가바야키", "fr": "Unagi kabayaki" },
+      "short": {
+        "vi": "Lươn Nhật nướng nhiều lớp sốt kabayaki thơm vị caramel, rắc tiêu sansho.",
+        "en": "Japanese eel grilled under layers of kabayaki glaze, finished with sansho pepper.",
+        "ja": "たれを重ねて香ばしく焼き上げ、山椒を添えて。",
+        "ko": "가바야키 소스를 덧발라 구운 일본 장어, 산초를 곁들여.",
+        "fr": "Anguille japonaise grillée et laquée de sauce kabayaki, poivre sansho."
+      }
+    },
+    {
+      "code": "JF-GRILL-SABA", "category": "grill", "price": 149000, "stock": 30,
+      "tags": ["grilled", "seafood"], "image": "saba-shioyaki.jpg",
+      "name": { "vi": "Saba Shioyaki — cá thu nướng muối", "en": "Saba Shioyaki", "ja": "鯖の塩焼き", "ko": "고등어 소금구이", "fr": "Saba shioyaki" },
+      "short": {
+        "vi": "Cá thu nướng muối da giòn, thịt béo, ăn kèm củ cải bào.",
+        "en": "Salt-grilled mackerel with crisp skin and rich flesh, with grated daikon.",
+        "ja": "皮はパリッと身はふっくら、大根おろしを添えて。",
+        "ko": "껍질은 바삭하고 살은 촉촉한 고등어구이, 무즙 곁들임.",
+        "fr": "Maquereau grillé au sel, peau croustillante et chair fondante, daikon râpé."
+      }
+    },
+    {
+      "code": "JF-GRILL-GINDARA", "category": "grill", "price": 459000, "stock": 15,
+      "tags": ["premium", "chef-choice", "grilled", "seafood"], "image": "gindara-saikyo.jpg",
+      "name": { "vi": "Cá tuyết đen nướng miso Saikyo", "en": "Black Cod Saikyo-yaki", "ja": "銀だら西京焼き", "ko": "은대구 사이쿄야키", "fr": "Morue noire saikyo-yaki" },
+      "short": {
+        "vi": "Cá tuyết đen ướp miso trắng Saikyo, nướng đến khi caramen hoá.",
+        "en": "Black cod marinated in sweet Saikyo white miso and grilled until caramelised.",
+        "ja": "西京味噌に漬け込んだ銀だらを香ばしく焼き上げて。",
+        "ko": "사이쿄 백된장에 재운 은대구를 캐러멜처럼 구워.",
+        "fr": "Morue noire marinée au miso blanc saikyo, grillée jusqu'à caramélisation."
+      }
+    },
+    {
+      "code": "JF-GRILL-HOTATE", "category": "grill", "price": 219000, "stock": 25,
+      "tags": ["grilled", "seafood"], "image": "hotate-butter-yaki.jpg",
+      "name": { "vi": "Sò điệp nướng bơ Hotate", "en": "Hotate Butter-yaki", "ja": "帆立のバター醤油焼き", "ko": "가리비 버터구이", "fr": "Saint-Jacques au beurre" },
+      "short": {
+        "vi": "Sò điệp nướng nguyên vỏ với bơ và nước tương, thơm lừng.",
+        "en": "Scallops grilled in the shell with butter and soy.",
+        "ja": "殻付き帆立をバターと醤油で焼き上げて。",
+        "ko": "껍데기째 버터와 간장으로 구운 가리비.",
+        "fr": "Saint-Jacques grillées dans leur coquille, beurre et sauce soja."
+      }
+    },
+    {
+      "code": "JF-GRILL-TERIYAKI", "category": "grill", "price": 199000, "stock": 35,
+      "tags": ["grilled", "seafood"], "image": "salmon-teriyaki.jpg",
+      "name": { "vi": "Cá hồi nướng Teriyaki", "en": "Salmon Teriyaki", "ja": "サーモン照り焼き", "ko": "연어 데리야키", "fr": "Saumon teriyaki" },
+      "short": {
+        "vi": "Phi lê cá hồi nướng sốt teriyaki bóng mượt, ngọt mặn hài hoà.",
+        "en": "Salmon fillet grilled with a glossy, sweet-savoury teriyaki glaze.",
+        "ja": "艶やかな照り焼きだれで焼き上げたサーモン。",
+        "ko": "윤기 나는 데리야키 소스로 구운 연어.",
+        "fr": "Filet de saumon grillé, laqué d'une sauce teriyaki sucrée-salée."
+      }
+    },
+    {
+      "code": "JF-GRILL-EBI", "category": "grill", "price": 239000, "stock": 25,
+      "tags": ["grilled", "seafood"], "image": "ebi-shioyaki.jpg",
+      "name": { "vi": "Tôm nướng muối Ebi Shioyaki", "en": "Ebi Shioyaki", "ja": "海老の塩焼き", "ko": "새우 소금구이", "fr": "Ebi shioyaki" },
+      "short": {
+        "vi": "Tôm nướng muối nguyên con, thịt chắc và ngọt.",
+        "en": "Whole prawns grilled with sea salt, firm and sweet.",
+        "ja": "殻ごと塩焼きにした、ぷりぷりの海老。",
+        "ko": "통째로 소금구이한 탱글한 새우.",
+        "fr": "Crevettes entières grillées au sel, chair ferme et sucrée."
+      }
+    },
+    {
+      "code": "JF-ICE-MOCHI", "category": "icecream", "price": 89000, "salePrice": 79000, "stock": 40,
+      "tags": ["sweet", "new"], "image": "mochi-ice-cream.jpg",
+      "name": { "vi": "Mochi kem (3 viên)", "en": "Mochi Ice Cream (3 pcs)", "ja": "もちアイス（3個）", "ko": "모찌 아이스크림 (3개)", "fr": "Mochis glacés (3 pièces)" },
+      "short": {
+        "vi": "Vỏ mochi dẻo mềm bọc kem lạnh: matcha, dâu và vani.",
+        "en": "Soft, chewy mochi wrapped around ice cream: matcha, strawberry and vanilla.",
+        "ja": "もちもちの皮でアイスを包んで。抹茶・苺・バニラ。",
+        "ko": "쫀득한 모찌 속 아이스크림: 말차, 딸기, 바닐라.",
+        "fr": "Pâte de mochi moelleuse autour d'une glace : matcha, fraise et vanille."
+      }
+    },
+    {
+      "code": "JF-ICE-GOMA", "category": "icecream", "price": 69000, "stock": 40,
+      "tags": ["sweet"], "image": "black-sesame-ice-cream.jpg",
+      "name": { "vi": "Kem mè đen Kurogoma", "en": "Black Sesame Ice Cream", "ja": "黒ごまアイス", "ko": "흑임자 아이스크림", "fr": "Glace au sésame noir" },
+      "short": {
+        "vi": "Kem mè đen rang thơm bùi, béo mịn.",
+        "en": "Nutty, creamy ice cream made with toasted black sesame.",
+        "ja": "香ばしい黒ごまの濃厚アイス。",
+        "ko": "고소하고 진한 흑임자 아이스크림.",
+        "fr": "Glace onctueuse au sésame noir torréfié."
+      }
+    },
+    {
+      "code": "JF-ICE-PARFAIT", "category": "icecream", "price": 119000, "stock": 25,
+      "tags": ["sweet", "matcha", "chef-choice"], "image": "matcha-parfait.jpg",
+      "name": { "vi": "Parfait Matcha", "en": "Matcha Parfait", "ja": "抹茶パフェ", "ko": "말차 파르페", "fr": "Parfait au matcha" },
+      "short": {
+        "vi": "Ly parfait nhiều tầng: kem matcha, thạch, đậu đỏ và shiratama.",
+        "en": "Layered parfait with matcha ice cream, jelly, red bean and shiratama.",
+        "ja": "抹茶アイス、ゼリー、あんこ、白玉の層。",
+        "ko": "말차 아이스크림, 젤리, 팥, 시라타마를 층층이.",
+        "fr": "Parfait en couches : glace matcha, gelée, haricots rouges et shiratama."
+      }
+    },
+    {
+      "code": "JF-ICE-SOFT", "category": "icecream", "price": 59000, "stock": 50,
+      "tags": ["sweet", "matcha", "new"], "image": "soft-serve.jpg",
+      "name": { "vi": "Kem tươi matcha & sữa", "en": "Matcha & Milk Soft Serve", "ja": "抹茶ミルクソフト", "ko": "말차 & 우유 소프트아이스크림", "fr": "Glace à l'italienne matcha & lait" },
+      "short": {
+        "vi": "Kem tươi xoắn hai vị matcha và sữa béo.",
+        "en": "Twist soft serve in matcha and rich milk.",
+        "ja": "抹茶とミルクのミックスソフト。",
+        "ko": "말차와 진한 우유 맛 트위스트.",
+        "fr": "Glace à l'italienne torsadée, matcha et lait."
+      }
+    },
+    {
+      "code": "JF-WAGA-DAIFUKU", "category": "wagashi", "price": 59000, "stock": 40,
+      "tags": ["sweet", "new"], "image": "ichigo-daifuku.jpg",
+      "name": { "vi": "Ichigo Daifuku — mochi nhân dâu", "en": "Ichigo Daifuku", "ja": "いちご大福", "ko": "딸기 다이후쿠", "fr": "Ichigo daifuku" },
+      "short": {
+        "vi": "Dâu tây tươi bọc nhân đậu đỏ và vỏ mochi mềm.",
+        "en": "A fresh strawberry wrapped in red bean paste and soft mochi.",
+        "ja": "いちごをあんこともちで包んで。",
+        "ko": "딸기를 팥소와 부드러운 찹쌀떡으로 감싸.",
+        "fr": "Une fraise fraîche enrobée de pâte de haricot rouge et de mochi."
+      }
+    },
+    {
+      "code": "JF-WAGA-DANGO", "category": "wagashi", "price": 55000, "stock": 40,
+      "tags": ["sweet"], "image": "mitarashi-dango.jpg",
+      "name": { "vi": "Mitarashi Dango", "en": "Mitarashi Dango", "ja": "みたらし団子", "ko": "미타라시 당고", "fr": "Mitarashi dango" },
+      "short": {
+        "vi": "Bánh dango nướng xiên, rưới sốt nước tương đường caramen. 2 xiên.",
+        "en": "Grilled rice dumplings on skewers in a sweet soy glaze. 2 skewers.",
+        "ja": "甘辛いみたらし餡の焼き団子。2本。",
+        "ko": "달콤짭짤한 간장 소스를 바른 구운 경단. 2꼬치.",
+        "fr": "Boulettes de riz grillées en brochette, glaçage sucré au soja. 2 brochettes."
+      }
+    },
+    {
+      "code": "JF-WAGA-WARABI", "category": "wagashi", "price": 65000, "stock": 30,
+      "tags": ["sweet", "vegetarian"], "image": "warabi-mochi.jpg",
+      "name": { "vi": "Warabi Mochi", "en": "Warabi Mochi", "ja": "わらび餅", "ko": "와라비모찌", "fr": "Warabi mochi" },
+      "short": {
+        "vi": "Bánh mochi trong mát, lăn bột đậu nành kinako, chấm mật đen kuromitsu.",
+        "en": "Cool, jiggly mochi dusted with kinako, served with kuromitsu syrup.",
+        "ja": "きな粉と黒蜜でいただく、ひんやりわらび餅。",
+        "ko": "콩가루와 흑당 시럽을 곁들인 시원한 와라비모찌.",
+        "fr": "Mochi frais et tremblant, roulé dans le kinako, sirop kuromitsu."
+      }
+    },
+    {
+      "code": "JF-WAGA-CHEESETART", "category": "wagashi", "price": 89000, "stock": 25,
+      "tags": ["sweet", "matcha"], "image": "matcha-cheesecake.jpg",
+      "name": { "vi": "Bánh tart phô mai Matcha", "en": "Matcha Cheese Tart", "ja": "抹茶チーズタルト", "ko": "말차 치즈 타르트", "fr": "Tarte au fromage et au matcha" },
+      "short": {
+        "vi": "Đế bánh giòn, nhân phô mai matcha béo mịn, đắng nhẹ.",
+        "en": "Crisp crust filled with silky, gently bitter matcha cheese cream.",
+        "ja": "サクサクの生地に、ほろ苦い抹茶チーズクリーム。",
+        "ko": "바삭한 타르트에 쌉쌀하고 부드러운 말차 치즈 크림.",
+        "fr": "Pâte croustillante garnie d'une crème au fromage et au matcha, légèrement amère."
+      }
+    },
+    {
+      "code": "JF-SAKE-DAIGINJO", "category": "sake", "price": 1890000, "stock": 12,
+      "tags": ["alcohol", "premium"], "image": "sake-daiginjo.jpg",
+      "name": { "vi": "Sake Junmai Daiginjo (720ml)", "en": "Junmai Daiginjo Sake (720ml)", "ja": "純米大吟醸（720ml）", "ko": "준마이 다이긴조 사케 (720ml)", "fr": "Saké junmai daiginjo (72 cl)" },
+      "short": {
+        "vi": "Gạo xay còn dưới 50%, hương hoa quả thanh, hậu vị sạch. Ngon nhất khi uống lạnh.",
+        "en": "Rice polished below 50%: delicate fruit aromas and a clean finish. Best served chilled.",
+        "ja": "精米歩合50%以下。華やかな香りとすっきりした後味。冷やでどうぞ。",
+        "ko": "정미율 50% 이하, 은은한 과일 향과 깔끔한 끝맛. 차갑게 즐기세요.",
+        "fr": "Riz poli à moins de 50 % : arômes fruités délicats et finale nette. À servir frais."
+      }
+    },
+    {
+      "code": "JF-SAKE-GINJO", "category": "sake", "price": 590000, "stock": 20,
+      "tags": ["alcohol"], "image": "sake-ginjo.jpg",
+      "name": { "vi": "Sake Junmai Ginjo (300ml)", "en": "Junmai Ginjo Sake (300ml)", "ja": "純米吟醸（300ml）", "ko": "준마이 긴조 사케 (300ml)", "fr": "Saké junmai ginjo (30 cl)" },
+      "short": {
+        "vi": "Hương gạo thơm nhẹ, vị mềm, hợp với sashimi và món nướng.",
+        "en": "Gentle rice aroma and a soft palate; pairs with sashimi and grilled dishes.",
+        "ja": "ほのかな米の香りとやわらかな口当たり。刺身や焼き物に。",
+        "ko": "은은한 쌀 향과 부드러운 맛, 사시미와 구이에 잘 어울려요.",
+        "fr": "Arôme de riz délicat et bouche souple, parfait avec sashimis et grillades."
+      }
+    },
+    {
+      "code": "JF-SAKE-ATSUKAN", "category": "sake", "price": 159000, "stock": 30,
+      "tags": ["alcohol", "hot"], "image": "sake-atsukan.jpg",
+      "name": { "vi": "Sake nóng Atsukan (180ml)", "en": "Atsukan Hot Sake (180ml)", "ja": "熱燗（一合）", "ko": "아츠칸 따뜻한 사케 (180ml)", "fr": "Saké chaud atsukan (18 cl)" },
+      "short": {
+        "vi": "Sake hâm ấm trong bình gốm tokkuri, êm dịu và ấm áp.",
+        "en": "Sake warmed in a ceramic tokkuri, mellow and comforting.",
+        "ja": "徳利でじっくり温めた、まろやかな熱燗。",
+        "ko": "도쿠리에 데운 부드럽고 따뜻한 사케.",
+        "fr": "Saké chauffé dans un tokkuri en céramique, doux et réconfortant."
+      }
+    },
+    {
+      "code": "JF-SAKE-UMESHU", "category": "sake", "price": 119000, "salePrice": 99000, "stock": 40,
+      "tags": ["alcohol", "sweet"], "image": "umeshu.jpg",
+      "name": { "vi": "Umeshu — rượu mơ Nhật (ly)", "en": "Umeshu Plum Liqueur (glass)", "ja": "梅酒（グラス）", "ko": "우메슈 매실주 (잔)", "fr": "Umeshu, liqueur de prune (verre)" },
+      "short": {
+        "vi": "Rượu mơ ngọt dịu, chua nhẹ, dùng với đá.",
+        "en": "Sweet-tart Japanese plum liqueur, served on the rocks.",
+        "ja": "甘酸っぱい梅酒をロックで。",
+        "ko": "새콤달콤한 일본 매실주, 온더록으로.",
+        "fr": "Liqueur de prune japonaise aigre-douce, servie sur glace."
+      }
+    },
+
+    {
+      "id": 2, "category": "nigiri", "tags": ["seafood"], "image": "tako-nigiri.jpg",
+      "name": { "vi": "Nigiri bạch tuộc Tako", "en": "Tako Nigiri (Octopus)", "ja": "たこ握り", "ko": "타코 니기리 (문어)", "fr": "Nigiri de poulpe (tako)" },
+      "short": {
+        "vi": "Bạch tuộc luộc mềm dai, ngọt nhẹ, cố định bằng dải rong biển. 2 miếng.",
+        "en": "Tender, lightly chewy poached octopus, banded with nori. 2 pieces.",
+        "ja": "やわらかく茹でたたこを海苔の帯で。二貫。",
+        "ko": "부드럽게 데친 문어를 김띠로 감싼 니기리. 2피스.",
+        "fr": "Poulpe poché tendre, cerclé de nori. 2 pièces."
+      }
+    },
+    {
+      "id": 3, "category": "nigiri", "tags": ["grilled", "seafood"], "image": "unagi-nigiri.jpg",
+      "name": { "vi": "Nigiri lươn Unagi", "en": "Unagi Nigiri", "ja": "うなぎ握り", "ko": "우나기 니기리", "fr": "Nigiri d'anguille (unagi)" },
+      "short": {
+        "vi": "Lươn nướng sốt kabayaki ngọt mặn trên cơm sushi. 2 miếng.",
+        "en": "Grilled eel glazed with sweet-savoury kabayaki sauce on sushi rice. 2 pieces.",
+        "ja": "甘辛い蒲焼きだれのうなぎ。二貫。",
+        "ko": "달콤짭짤한 가바야키 장어 니기리. 2피스.",
+        "fr": "Anguille grillée laquée de sauce kabayaki sur riz à sushi. 2 pièces."
+      }
+    },
+    {
+      "id": 4, "category": "nigiri", "tags": ["raw", "seafood"], "image": "maguro-nigiri.jpg",
+      "name": { "vi": "Nigiri cá ngừ Maguro", "en": "Maguro Nigiri (Tuna)", "ja": "まぐろ握り", "ko": "마구로 니기리 (참치)", "fr": "Nigiri de thon (maguro)" },
+      "short": {
+        "vi": "Thịt cá ngừ đỏ akami đậm đà trên cơm sushi. 2 miếng.",
+        "en": "Lean red akami tuna with deep flavour on sushi rice. 2 pieces.",
+        "ja": "旨みの濃い赤身の握り。二貫。",
+        "ko": "감칠맛 진한 참치 붉은살 니기리. 2피스.",
+        "fr": "Thon rouge maigre (akami), riche en saveur. 2 pièces."
+      }
+    },
+    {
+      "id": 5, "category": "nigiri", "tags": ["raw", "seafood"],
+      "name": { "vi": "Nigiri cá hồi", "en": "Salmon Nigiri", "ja": "サーモン握り", "ko": "연어 니기리", "fr": "Nigiri de saumon" },
+      "short": {
+        "vi": "Cá hồi béo mềm, vân cam đẹp mắt trên cơm sushi. 2 miếng.",
+        "en": "Buttery salmon with beautiful marbling on sushi rice. 2 pieces.",
+        "ja": "とろけるサーモンの握り。二貫。",
+        "ko": "부드럽고 고소한 연어 니기리. 2피스.",
+        "fr": "Saumon fondant et joliment persillé sur riz à sushi. 2 pièces."
+      }
+    },
+    {
+      "id": 17, "category": "sashimi", "tags": ["raw", "seafood"], "image": "maguro-sashimi.jpg",
+      "name": { "vi": "Sashimi cá ngừ Maguro", "en": "Maguro Sashimi (Tuna)", "ja": "まぐろ刺身", "ko": "마구로 사시미 (참치)", "fr": "Sashimi de thon (maguro)" },
+      "short": {
+        "vi": "Thịt cá ngừ đỏ akami cắt dày, đậm đà.",
+        "en": "Thick slices of lean akami tuna, deeply flavourful.",
+        "ja": "旨み豊かな赤身を厚切りで。",
+        "ko": "감칠맛 깊은 참치 붉은살을 두툼하게.",
+        "fr": "Tranches épaisses de thon akami, riche en saveur."
+      }
+    },
+    {
+      "id": 18, "category": "sashimi", "tags": ["premium", "sharing", "raw", "seafood"], "image": "lobster-sashimi.jpg",
+      "name": { "vi": "Sashimi tôm hùm", "en": "Lobster Sashimi", "ja": "伊勢海老の刺身", "ko": "랍스터 사시미", "fr": "Sashimi de homard" },
+      "short": {
+        "vi": "Tôm hùm sống thái mỏng bày trên đá, ngọt và giòn.",
+        "en": "Raw lobster sliced thin and served on ice: sweet and crisp.",
+        "ja": "薄造りの伊勢海老を氷の上で。甘く歯ごたえのある味わい。",
+        "ko": "얇게 썬 랍스터를 얼음 위에, 달고 아삭한 맛.",
+        "fr": "Homard cru finement tranché sur glace, sucré et croquant."
+      }
+    },
+    {
+      "id": 19, "category": "sashimi", "tags": ["raw", "seafood"],
+      "name": { "vi": "Sashimi cá hồi", "en": "Salmon Sashimi", "ja": "サーモン刺身", "ko": "연어 사시미", "fr": "Sashimi de saumon" },
+      "short": {
+        "vi": "Cá hồi béo mềm cắt dày, ăn kèm chanh.",
+        "en": "Thick-cut buttery salmon with lemon.",
+        "ja": "とろけるサーモンを厚切りで。",
+        "ko": "부드러운 연어를 두툼하게, 레몬 곁들임.",
+        "fr": "Saumon fondant en tranches épaisses, citron."
+      }
+    },
+    {
+      "id": 20, "category": "sashimi", "tags": ["raw", "seafood"], "image": "tako-sashimi.jpg",
+      "name": { "vi": "Sashimi bạch tuộc Tako", "en": "Tako Sashimi (Octopus)", "ja": "たこ刺身", "ko": "타코 사시미 (문어)", "fr": "Sashimi de poulpe (tako)" },
+      "short": {
+        "vi": "Bạch tuộc thái mỏng giòn sần sật, ăn kèm chanh.",
+        "en": "Thinly sliced octopus with a pleasant bite, with lemon.",
+        "ja": "歯ごたえのあるたこの薄造り。",
+        "ko": "쫄깃한 문어를 얇게 썰어 레몬과 함께.",
+        "fr": "Poulpe finement tranché, agréablement ferme, citron."
+      }
+    },
+    {
+      "id": 7, "category": "rice", "tags": ["raw", "seafood"],
+      "name": { "vi": "Salmon Ikura Don", "en": "Salmon & Ikura Don", "ja": "サーモンいくら丼", "ko": "연어 이쿠라동", "fr": "Don saumon & ikura" },
+      "short": {
+        "vi": "Cơm phủ sashimi cá hồi và trứng cá hồi Ikura, kèm tía tô và bắp.",
+        "en": "Rice bowl topped with salmon sashimi and salmon roe, with shiso and corn.",
+        "ja": "サーモンといくらをのせた丼。大葉とコーンを添えて。",
+        "ko": "연어 사시미와 연어알을 올린 덮밥, 시소와 옥수수 곁들임.",
+        "fr": "Bol de riz garni de sashimi de saumon et d'œufs de saumon, shiso et maïs."
+      }
+    },
+    {
+      "id": 8, "category": "rice", "tags": [], "image": "katsudon.jpg",
+      "name": { "vi": "Katsudon — cơm thịt heo chiên xù", "en": "Katsudon", "ja": "カツ丼", "ko": "가츠동", "fr": "Katsudon" },
+      "short": {
+        "vi": "Thịt heo chiên xù om trứng và hành trong nước dùng dashi ngọt, trên cơm nóng.",
+        "en": "Crispy pork cutlet simmered with egg and onion in sweet dashi, over hot rice.",
+        "ja": "とんかつを玉子とじにして、ご飯の上に。",
+        "ko": "바삭한 돈가스를 달걀과 양파로 조려 밥 위에.",
+        "fr": "Côtelette de porc panée mijotée avec œuf et oignon dans un dashi sucré, sur riz chaud."
+      }
+    },
+    {
+      "id": 6, "category": "grill", "tags": ["grilled", "beef", "sharing"], "image": "yakiniku.jpg",
+      "name": { "vi": "Yakiniku — bò nướng kiểu Nhật", "en": "Yakiniku", "ja": "焼肉", "ko": "야키니쿠", "fr": "Yakiniku" },
+      "short": {
+        "vi": "Thịt bò thái lát ướp sốt yakiniku, nướng khi gọi món.",
+        "en": "Sliced beef marinated in yakiniku sauce, grilled to order.",
+        "ja": "焼肉だれに漬けた牛肉を焼き上げて。",
+        "ko": "야키니쿠 소스에 재운 소고기를 주문 즉시 구워.",
+        "fr": "Bœuf émincé mariné à la sauce yakiniku, grillé à la commande."
+      }
+    },
+    {
+      "id": 33, "category": "grill", "tags": ["premium", "beef", "grilled"], "image": "wagyu-a4.jpg",
+      "name": { "vi": "Wagyu A4 nướng", "en": "Grilled A4 Wagyu", "ja": "A4和牛焼き", "ko": "A4 와규 구이", "fr": "Wagyu A4 grillé" },
+      "short": {
+        "vi": "Bò Wagyu hạng A4 nướng chín tới, vân mỡ mềm, rưới sốt mè rang.",
+        "en": "A4-grade wagyu grilled medium, finely marbled, with toasted sesame sauce.",
+        "ja": "A4等級の和牛を焼き上げ、ごまだれで。",
+        "ko": "A4 등급 와규를 구워 참깨 소스와 함께.",
+        "fr": "Wagyu de grade A4 grillé, finement persillé, sauce au sésame."
+      }
+    },
+    {
+      "id": 34, "category": "grill", "tags": ["premium", "chef-choice", "beef", "grilled"], "image": "wagyu-a5.jpg",
+      "name": { "vi": "Wagyu A5 thượng hạng", "en": "Premium A5 Wagyu", "ja": "A5和牛", "ko": "A5 와규", "fr": "Wagyu A5 d'exception" },
+      "short": {
+        "vi": "Hạng cao nhất của bò Wagyu, vân mỡ dày đặc, tan chảy khi nướng.",
+        "en": "The highest wagyu grade: dense marbling that melts as it grills.",
+        "ja": "最高等級の和牛。焼くととろける霜降り。",
+        "ko": "최고 등급 와규, 구우면 녹아내리는 마블링.",
+        "fr": "Le grade le plus élevé du wagyu : un persillage qui fond à la cuisson."
+      }
+    },
+    {
+      "id": 35, "category": "grill", "tags": ["grilled", "seafood"],
+      "name": { "vi": "Xiên lươn nướng", "en": "Grilled Eel Skewers", "ja": "うなぎ串焼き", "ko": "장어 꼬치구이", "fr": "Brochettes d'anguille" },
+      "short": {
+        "vi": "Lươn cắt khúc xiên que, nướng sốt kabayaki thơm lừng.",
+        "en": "Chunks of eel on skewers, grilled with kabayaki glaze.",
+        "ja": "うなぎを串に刺し、蒲焼きだれで焼き上げて。",
+        "ko": "장어를 꼬치에 꽂아 가바야키 소스로 구워.",
+        "fr": "Morceaux d'anguille en brochette, laqués à la sauce kabayaki."
+      }
+    },
+    {
+      "id": 25, "category": "ramen", "tags": [], "image": "tonkotsu-ramen.jpg",
+      "name": { "vi": "Tonkotsu Ramen", "en": "Tonkotsu Ramen", "ja": "豚骨ラーメン", "ko": "돈코츠 라멘", "fr": "Ramen tonkotsu" },
+      "short": {
+        "vi": "Nước dùng xương heo hầm trắng đục, béo ngậy, thịt chashu và trứng lòng đào.",
+        "en": "Creamy pork-bone broth with chashu pork and a soft-boiled egg.",
+        "ja": "濃厚な豚骨スープにチャーシューと半熟卵。",
+        "ko": "진한 돼지뼈 육수에 차슈와 반숙 계란.",
+        "fr": "Bouillon crémeux d'os de porc, chashu et œuf mollet."
+      }
+    },
+    {
+      "id": 26, "category": "ramen", "tags": [], "image": "shoyu-ramen.jpg",
+      "name": { "vi": "Shoyu Ramen", "en": "Shoyu Ramen", "ja": "醤油ラーメン", "ko": "쇼유 라멘", "fr": "Ramen shoyu" },
+      "short": {
+        "vi": "Nước dùng nước tương trong, thanh mà đậm vị umami.",
+        "en": "Clear soy-sauce broth, light yet full of umami.",
+        "ja": "澄んだ醤油スープ、すっきりと旨み豊か。",
+        "ko": "맑은 간장 육수, 깔끔하면서 감칠맛 가득.",
+        "fr": "Bouillon clair à la sauce soja, léger et riche en umami."
+      }
+    },
+    {
+      "id": 27, "category": "ramen", "tags": [], "image": "miso-ramen.jpg",
+      "name": { "vi": "Miso Ramen", "en": "Miso Ramen", "ja": "味噌ラーメン", "ko": "미소 라멘", "fr": "Ramen miso" },
+      "short": {
+        "vi": "Nước dùng miso đậm đà, ấm bụng, kèm bắp và giá.",
+        "en": "Hearty fermented-miso broth with corn and bean sprouts.",
+        "ja": "コクのある味噌スープ、コーンともやしを添えて。",
+        "ko": "구수한 된장 육수, 옥수수와 숙주 곁들임.",
+        "fr": "Bouillon au miso généreux, maïs et pousses de soja."
+      }
+    },
+    {
+      "id": 28, "category": "ramen", "tags": [], "image": "shio-ramen.jpg",
+      "name": { "vi": "Shio Ramen", "en": "Shio Ramen", "ja": "塩ラーメン", "ko": "시오 라멘", "fr": "Ramen shio" },
+      "short": {
+        "vi": "Nước dùng muối trong vắt, nhẹ nhàng, tôn vị nguyên liệu.",
+        "en": "Clear, delicate salt broth that lets the ingredients shine.",
+        "ja": "素材を生かした、澄んだやさしい塩スープ。",
+        "ko": "재료 맛을 살린 맑고 담백한 소금 육수.",
+        "fr": "Bouillon clair et délicat au sel, qui sublime les ingrédients."
+      }
+    },
+    {
+      "id": 21, "category": "bento", "tags": ["raw", "seafood"], "image": "sashimi-bento.jpg",
+      "name": { "vi": "Bento sashimi", "en": "Sashimi Bento", "ja": "刺身弁当", "ko": "사시미 벤토", "fr": "Bento sashimi" },
+      "short": {
+        "vi": "Hộp cơm gồm sashimi tổng hợp, sushi cuộn, món chiên và rau.",
+        "en": "Assorted sashimi, rolls, fried bites and vegetables in one box.",
+        "ja": "刺身、巻き寿司、揚げ物、野菜の弁当。",
+        "ko": "모둠 사시미, 롤, 튀김, 채소 도시락.",
+        "fr": "Sashimis variés, makis, fritures et légumes dans une seule boîte."
+      }
+    },
+    {
+      "id": 22, "category": "bento", "tags": ["grilled", "seafood"], "image": "unagi-bento.jpg",
+      "name": { "vi": "Bento lươn Unaju", "en": "Unaju Eel Bento", "ja": "うな重", "ko": "우나주 장어 벤토", "fr": "Bento unaju" },
+      "short": {
+        "vi": "Lươn nướng kabayaki đặt trên cơm trong hộp vuông kiểu Nhật.",
+        "en": "Kabayaki-grilled eel over rice in a classic Japanese box.",
+        "ja": "蒲焼きのうなぎをご飯にのせた重箱。",
+        "ko": "가바야키 장어를 밥 위에 올린 찬합 도시락.",
+        "fr": "Anguille kabayaki sur riz, dans une boîte traditionnelle."
+      }
+    },
+    {
+      "id": 23, "category": "bento", "tags": ["beef"], "image": "beef-bento.jpg",
+      "name": { "vi": "Bento bò Gyudon", "en": "Gyudon Beef Bento", "ja": "牛丼弁当", "ko": "규동 벤토", "fr": "Bento gyudon" },
+      "short": {
+        "vi": "Bò thái mỏng om hành ngọt trên cơm, kèm gừng đỏ.",
+        "en": "Thin-sliced beef simmered with sweet onions over rice, with red ginger.",
+        "ja": "甘く煮た牛肉と玉ねぎ、紅しょうが添え。",
+        "ko": "달콤하게 조린 소고기와 양파 덮밥, 초생강 곁들임.",
+        "fr": "Bœuf émincé mijoté aux oignons doux sur riz, gingembre rouge."
+      }
+    },
+    {
+      "id": 24, "category": "bento", "tags": [], "image": "pork-bento.jpg",
+      "name": { "vi": "Bento heo chiên xù Tonkatsu", "en": "Tonkatsu Pork Bento", "ja": "とんかつ弁当", "ko": "돈가스 벤토", "fr": "Bento tonkatsu" },
+      "short": {
+        "vi": "Hộp cơm thịt heo tonkatsu, tôm tempura, rau trộn và cơm.",
+        "en": "Pork tonkatsu, shrimp tempura, salad and rice.",
+        "ja": "とんかつ、海老天、サラダ、ご飯。",
+        "ko": "돈가스, 새우튀김, 샐러드, 밥.",
+        "fr": "Porc tonkatsu, tempura de crevette, salade et riz."
+      }
+    },
+    {
+      "id": 13, "category": "wagashi", "tags": ["sweet"], "image": "dorayaki.jpg",
+      "name": { "vi": "Dorayaki", "en": "Dorayaki", "ja": "どら焼き", "ko": "도라야키", "fr": "Dorayaki" },
+      "short": {
+        "vi": "Hai lớp bánh pancake mềm xốp kẹp nhân đậu đỏ ngọt.",
+        "en": "Two fluffy pancakes sandwiching sweet red bean paste.",
+        "ja": "ふんわり生地でつぶあんをサンド。",
+        "ko": "폭신한 팬케이크 사이에 달콤한 팥소.",
+        "fr": "Deux pancakes moelleux garnis de pâte de haricot rouge."
+      }
+    },
+    {
+      "id": 14, "category": "wagashi", "tags": ["sweet", "matcha"], "image": "matcha-mochi.jpg",
+      "name": { "vi": "Mochi matcha", "en": "Matcha Mochi", "ja": "抹茶もち", "ko": "말차 모찌", "fr": "Mochi au matcha" },
+      "short": {
+        "vi": "Bánh mochi dẻo vị trà xanh matcha, ngọt thanh.",
+        "en": "Chewy mochi flavoured with matcha, lightly sweet.",
+        "ja": "抹茶香るもちもちの和菓子。",
+        "ko": "말차 향 가득한 쫀득한 모찌.",
+        "fr": "Mochi moelleux parfumé au matcha, peu sucré."
+      }
+    },
+    {
+      "id": 15, "category": "wagashi", "tags": ["sweet", "matcha"], "image": "taiyaki.jpg",
+      "name": { "vi": "Taiyaki matcha", "en": "Matcha Taiyaki", "ja": "抹茶たい焼き", "ko": "말차 타이야키", "fr": "Taiyaki au matcha" },
+      "short": {
+        "vi": "Bánh cá nướng giòn vỏ, nhân kem matcha.",
+        "en": "Crisp fish-shaped cake filled with matcha cream.",
+        "ja": "外はパリッと、中は抹茶クリーム。",
+        "ko": "겉은 바삭, 속은 말차 크림인 붕어빵.",
+        "fr": "Gâteau en forme de poisson, croustillant, fourré à la crème matcha."
+      }
+    },
+    {
+      "id": 16, "category": "icecream", "tags": ["sweet", "matcha"],
+      "name": { "vi": "Kem matcha", "en": "Matcha Ice Cream", "ja": "抹茶アイス", "ko": "말차 아이스크림", "fr": "Glace au matcha" },
+      "short": {
+        "vi": "Kem trà xanh matcha đậm vị, béo và hơi đắng nhẹ.",
+        "en": "Intense matcha ice cream: creamy with a gentle bitterness.",
+        "ja": "濃厚でほろ苦い抹茶アイス。",
+        "ko": "진하고 은은하게 쌉쌀한 말차 아이스크림.",
+        "fr": "Glace au matcha intense, crémeuse et légèrement amère."
+      }
+    },
+    {
+      "id": 12, "category": "sake", "tags": ["alcohol"],
+      "name": { "vi": "Kinusara — sake đục", "en": "Kinusara Nigori Sake", "ja": "きぬさら にごり酒", "ko": "기누사라 니고리 사케", "fr": "Kinusara, saké nigori" },
+      "short": {
+        "vi": "Rượu sake đục (nigori) mịn như sữa, ngọt nhẹ.",
+        "en": "Cloudy, silky nigori sake with gentle sweetness.",
+        "ja": "絹のようになめらかなにごり酒。",
+        "ko": "비단처럼 부드러운 탁한 사케.",
+        "fr": "Saké trouble et soyeux, légèrement sucré."
+      }
+    },
+    {
+      "id": 9, "category": "beer", "tags": ["alcohol"],
+      "name": { "vi": "Asahi Super Dry", "en": "Asahi Super Dry", "ja": "アサヒスーパードライ", "ko": "아사히 슈퍼드라이", "fr": "Asahi Super Dry" },
+      "short": {
+        "vi": "Lager Nhật vị khô, sảng khoái, hậu vị gọn.",
+        "en": "Crisp, dry Japanese lager with a clean finish.",
+        "ja": "キレのある辛口ビール。",
+        "ko": "깔끔하고 드라이한 일본 라거.",
+        "fr": "Lager japonaise sèche et vive, finale nette."
+      }
+    },
+    {
+      "id": 10, "category": "beer", "tags": ["alcohol"],
+      "name": { "vi": "Sapporo Premium", "en": "Sapporo Premium", "ja": "サッポロプレミアム", "ko": "삿포로 프리미엄", "fr": "Sapporo Premium" },
+      "short": {
+        "vi": "Lager Nhật vị mạch nha êm, dễ uống.",
+        "en": "A smooth, malty Japanese lager.",
+        "ja": "まろやかな麦の味わい。",
+        "ko": "부드러운 맥아 풍미의 일본 라거.",
+        "fr": "Lager japonaise douce et maltée."
+      }
+    },
+    {
+      "id": 11, "category": "beer", "tags": ["alcohol"],
+      "name": { "vi": "Kirin Ichiban", "en": "Kirin Ichiban", "ja": "キリン一番搾り", "ko": "기린 이치방", "fr": "Kirin Ichiban" },
+      "short": {
+        "vi": "Lager ủ từ mẻ nước nha ép đầu tiên (ichiban shibori), vị mượt.",
+        "en": "Lager brewed from the first-press wort (ichiban shibori), smooth and full.",
+        "ja": "一番搾り麦汁だけで造るビール。",
+        "ko": "첫 번째 맥즙만으로 만든 부드러운 라거.",
+        "fr": "Lager brassée à partir du premier moût (ichiban shibori), douce et ample."
+      }
+    },
+    {
+      "id": 29, "category": "soft", "tags": [],
+      "name": { "vi": "Coca-Cola Zero", "en": "Coca-Cola Zero", "ja": "コカ・コーラ ゼロ", "ko": "코카콜라 제로", "fr": "Coca-Cola Zero" },
+      "short": { "vi": "Không đường, mát lạnh.", "en": "Sugar-free, ice cold.", "ja": "糖類ゼロ。冷たくどうぞ。", "ko": "무설탕, 시원하게.", "fr": "Sans sucres, bien frais." }
+    },
+    {
+      "id": 30, "category": "soft", "tags": [],
+      "name": { "vi": "Coca-Cola Original", "en": "Coca-Cola Original", "ja": "コカ・コーラ", "ko": "코카콜라 오리지널", "fr": "Coca-Cola Original" },
+      "short": { "vi": "Vị cola cổ điển, uống lạnh.", "en": "Classic cola, served cold.", "ja": "定番の味を冷たく。", "ko": "클래식 콜라, 시원하게.", "fr": "Le cola classique, servi frais." }
+    },
+    {
+      "id": 31, "category": "soft", "tags": [],
+      "name": { "vi": "Calpico dâu", "en": "Calpico Strawberry", "ja": "カルピス いちご", "ko": "칼피스 딸기", "fr": "Calpico fraise" },
+      "short": {
+        "vi": "Đồ uống sữa lên men không ga của Nhật, vị dâu chua ngọt.",
+        "en": "Japan's non-carbonated cultured-milk drink, strawberry flavour.",
+        "ja": "甘酸っぱいいちご味の乳酸菌飲料。",
+        "ko": "새콤달콤한 딸기 맛 유산균 음료.",
+        "fr": "Boisson japonaise au lait fermenté, non gazeuse, à la fraise."
+      }
+    },
+    {
+      "id": 32, "category": "soft", "tags": [],
+      "name": { "vi": "Pepsi Zero", "en": "Pepsi Zero Sugar", "ja": "ペプシ ゼロ", "ko": "펩시 제로", "fr": "Pepsi Zero" },
+      "short": { "vi": "Không đường, đậm vị cola.", "en": "No sugar, bold cola taste.", "ja": "砂糖ゼロ、しっかりコーラの味。", "ko": "무설탕, 진한 콜라 맛.", "fr": "Sans sucre, goût de cola intense." }
+    }
+  ]
+}

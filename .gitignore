@@ -1,0 +1,47 @@
+# ---- .NET / Visual Studio ----
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userprefs
+*.rsuser
+TestResults/
+*.binlog
+
+# ---- Node / frontend ----
+node_modules/
+dist/
+.vite/
+coverage/
+*.local
+
+# ---- Secrets / local config ----
+.env
+.env.*
+!.env.example
+appsettings.*.local.json
+
+# ---- Editor / OS ----
+.idea/
+.vscode/*
+!.vscode/extensions.json
+Thumbs.db
+.DS_Store
+
+# ---- Project leftovers ----
+Backup/
+Backup1/
+UpgradeLog*.htm
+vqt_japanese_food_web_main/
+
+# User-uploaded avatars (personal data)
+vqt_japanese_food_web/wwwroot/Uploads/User/
+
+# Built SPA (npm run build writes here) and files the menu seeder regenerates from seed/
+JapaneseFood.Api/wwwroot/
+vqt_japanese_food_web/wwwroot/Uploads/Product/seed-*
+vqt_japanese_food_web/wwwroot/Uploads/Content/
+
+# Legacy database dump with personal data: keep it local, never commit it
+scriptDB.sql

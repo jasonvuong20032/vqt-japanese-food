@@ -1,0 +1,257 @@
+{
+  "vi": {
+    "isSample": true,
+    "hero": {
+      "eyebrow": "Câu chuyện của chúng tôi",
+      "title": "Tinh thần Nhật Bản, trọn vẹn trong từng món ăn",
+      "subtitle": "VQT Japanese Food mang hương vị Nhật đến bàn ăn của bạn — từ sashimi thái tay đến bát ramen hầm nhiều giờ.",
+      "image": "about-counter.jpg"
+    },
+    "story": {
+      "title": "Khởi nguồn",
+      "paragraphs": [
+        "VQT Japanese Food ra đời từ tình yêu với ẩm thực Nhật Bản và mong muốn đưa những món ăn tinh tế ấy đến gần hơn với thực khách Việt.",
+        "Chúng tôi tin rằng một món ăn ngon bắt đầu từ nguyên liệu tươi, được chế biến tỉ mỉ và phục vụ bằng tinh thần hiếu khách omotenashi.",
+        "Thực đơn xoay quanh sushi, sashimi, món nướng, ramen và tráng miệng — kết hợp công thức truyền thống với khẩu vị hiện đại."
+      ],
+      "image": "about-hands.jpg"
+    },
+    "values": [
+      { "kanji": "鮮", "title": "Tươi", "text": "Nguyên liệu được chọn lựa kỹ lưỡng và sơ chế trong ngày." },
+      { "kanji": "匠", "title": "Tỉ mỉ", "text": "Mỗi món được hoàn thiện bằng kỹ thuật và sự tập trung của người đầu bếp." },
+      { "kanji": "心", "title": "Tận tâm", "text": "Phục vụ bằng tinh thần omotenashi — chu đáo trước cả khi bạn cần." },
+      { "kanji": "和", "title": "Hài hoà", "text": "Cân bằng giữa hương vị, màu sắc và mùa trong từng đĩa ăn." }
+    ],
+    "chef": {
+      "isSample": true,
+      "title": "Bếp trưởng",
+      "name": "[Tên bếp trưởng]",
+      "role": "Bếp trưởng — Sushi & món Nhật",
+      "bio": [
+        "Đây là đoạn giới thiệu mẫu. Hãy thay bằng tiểu sử thật của bếp trưởng: quá trình học nghề, những nơi đã làm việc và phong cách nấu ăn.",
+        "Gợi ý nội dung: số năm kinh nghiệm, món tâm đắc nhất, triết lý chọn nguyên liệu và điều muốn gửi gắm đến thực khách."
+      ],
+      "quote": "Một miếng sushi ngon là khi cá, cơm và người làm cùng hoà làm một.",
+      "image": "about-chef.jpg"
+    },
+    "journey": {
+      "title": "Từ nguyên liệu đến bàn ăn",
+      "steps": [
+        { "title": "Chọn lựa", "text": "Ưu tiên hải sản và nguyên liệu tươi, đúng mùa." },
+        { "title": "Sơ chế", "text": "Cá được sơ chế và bảo quản lạnh theo tiêu chuẩn an toàn thực phẩm." },
+        { "title": "Chế biến", "text": "Từng món được làm khi có đơn để giữ trọn hương vị." },
+        { "title": "Giao tận nơi", "text": "Đóng gói giữ nhiệt và giao nhanh trong khung giờ phục vụ." }
+      ]
+    },
+    "sourcing": {
+      "title": "Nguồn nguyên liệu",
+      "text": "Chúng tôi làm việc với các nhà cung cấp hải sản và kiểm tra chất lượng nguyên liệu mỗi ngày. (Nội dung mẫu — hãy cập nhật thông tin nguồn hàng thực tế của cửa hàng.)",
+      "image": "about-market.jpg"
+    },
+    "closing": { "title": "Hẹn gặp bạn tại bàn ăn", "text": "Itadakimasu — chúc bạn ngon miệng!" }
+  },
+  "en": {
+    "isSample": true,
+    "hero": {
+      "eyebrow": "Our story",
+      "title": "The Japanese spirit, in every dish",
+      "subtitle": "VQT Japanese Food brings the flavours of Japan to your table — from hand-sliced sashimi to ramen simmered for hours.",
+      "image": "about-counter.jpg"
+    },
+    "story": {
+      "title": "How it began",
+      "paragraphs": [
+        "VQT Japanese Food grew out of a love for Japanese cuisine and a wish to bring its refined dishes closer to diners in Vietnam.",
+        "We believe a great dish starts with fresh ingredients, careful preparation and the spirit of omotenashi hospitality.",
+        "Our menu centres on sushi, sashimi, grilled dishes, ramen and desserts, pairing traditional recipes with modern tastes."
+      ],
+      "image": "about-hands.jpg"
+    },
+    "values": [
+      { "kanji": "鮮", "title": "Freshness", "text": "Ingredients are chosen with care and prepared the same day." },
+      { "kanji": "匠", "title": "Craft", "text": "Every dish is finished with technique and a cook's full attention." },
+      { "kanji": "心", "title": "Heart", "text": "Service in the spirit of omotenashi: thoughtful before you even ask." },
+      { "kanji": "和", "title": "Harmony", "text": "A balance of flavour, colour and season on every plate." }
+    ],
+    "chef": {
+      "isSample": true,
+      "title": "Head chef",
+      "name": "[Head chef's name]",
+      "role": "Head chef — Sushi & Japanese cuisine",
+      "bio": [
+        "This is placeholder text. Replace it with the head chef's real biography: training, previous kitchens and cooking style.",
+        "Ideas: years of experience, signature dish, approach to ingredients and a message to guests."
+      ],
+      "quote": "Great sushi is when the fish, the rice and the cook become one.",
+      "image": "about-chef.jpg"
+    },
+    "journey": {
+      "title": "From ingredient to table",
+      "steps": [
+        { "title": "Selection", "text": "Fresh, seasonal seafood and produce come first." },
+        { "title": "Preparation", "text": "Fish is prepared and kept chilled to food-safety standards." },
+        { "title": "Cooking", "text": "Each dish is made to order to keep its full flavour." },
+        { "title": "Delivery", "text": "Insulated packaging and fast delivery during service hours." }
+      ]
+    },
+    "sourcing": {
+      "title": "Our ingredients",
+      "text": "We work with seafood suppliers and check ingredient quality every day. (Placeholder — update with the shop's real sourcing details.)",
+      "image": "about-market.jpg"
+    },
+    "closing": { "title": "See you at the table", "text": "Itadakimasu — enjoy your meal!" }
+  },
+  "ja": {
+    "isSample": true,
+    "hero": {
+      "eyebrow": "私たちの物語",
+      "title": "一皿ひと皿に、日本の心を",
+      "subtitle": "手切りの刺身から、じっくり煮込んだラーメンまで。VQT Japanese Food は日本の味を食卓へお届けします。",
+      "image": "about-counter.jpg"
+    },
+    "story": {
+      "title": "はじまり",
+      "paragraphs": [
+        "VQT Japanese Food は、日本料理への愛情と、その繊細な味をベトナムのお客様にもっと身近に届けたいという思いから生まれました。",
+        "おいしい料理は、新鮮な食材、丁寧な仕込み、そしておもてなしの心から始まると考えています。",
+        "寿司、刺身、焼き物、ラーメン、デザートを中心に、伝統のレシピと今の味覚を組み合わせたメニューをご用意しています。"
+      ],
+      "image": "about-hands.jpg"
+    },
+    "values": [
+      { "kanji": "鮮", "title": "鮮度", "text": "食材を厳選し、その日のうちに仕込みます。" },
+      { "kanji": "匠", "title": "匠", "text": "一品ごとに、技と集中を込めて仕上げます。" },
+      { "kanji": "心", "title": "心", "text": "おもてなしの心で、気配りのあるサービスを。" },
+      { "kanji": "和", "title": "和", "text": "味、彩り、季節の調和を一皿に。" }
+    ],
+    "chef": {
+      "isSample": true,
+      "title": "料理長",
+      "name": "［料理長のお名前］",
+      "role": "料理長 — 寿司・日本料理",
+      "bio": [
+        "こちらはサンプルの紹介文です。修業時代、これまでの経歴、料理のスタイルなど、料理長の実際の経歴に差し替えてください。",
+        "例：経験年数、得意料理、食材へのこだわり、お客様へのメッセージ。"
+      ],
+      "quote": "魚とシャリと職人がひとつになったとき、本当においしい寿司になる。",
+      "image": "about-chef.jpg"
+    },
+    "journey": {
+      "title": "食材から食卓まで",
+      "steps": [
+        { "title": "選ぶ", "text": "新鮮で旬の魚介と食材を優先します。" },
+        { "title": "仕込む", "text": "魚は衛生基準に沿って下処理し、冷蔵で管理します。" },
+        { "title": "作る", "text": "ご注文を受けてから調理し、おいしさを守ります。" },
+        { "title": "届ける", "text": "保温梱包で、営業時間内にすばやくお届けします。" }
+      ]
+    },
+    "sourcing": {
+      "title": "食材について",
+      "text": "魚介の仕入れ先と連携し、毎日食材の品質を確認しています。（サンプル文 — 実際の仕入れ情報に更新してください。）",
+      "image": "about-market.jpg"
+    },
+    "closing": { "title": "食卓でお会いしましょう", "text": "いただきます！" }
+  },
+  "ko": {
+    "isSample": true,
+    "hero": {
+      "eyebrow": "우리의 이야기",
+      "title": "한 접시 한 접시에 담은 일본의 정신",
+      "subtitle": "손으로 썬 사시미부터 오래 끓인 라멘까지, VQT Japanese Food가 일본의 맛을 식탁으로 전합니다.",
+      "image": "about-counter.jpg"
+    },
+    "story": {
+      "title": "시작",
+      "paragraphs": [
+        "VQT Japanese Food는 일본 요리에 대한 애정과, 그 섬세한 맛을 베트남의 손님들께 더 가까이 전하고 싶은 마음에서 시작되었습니다.",
+        "좋은 요리는 신선한 재료, 정성스러운 준비, 그리고 오모테나시의 환대에서 시작된다고 믿습니다.",
+        "스시, 사시미, 구이, 라멘, 디저트를 중심으로 전통 레시피와 현대적인 입맛을 함께 담았습니다."
+      ],
+      "image": "about-hands.jpg"
+    },
+    "values": [
+      { "kanji": "鮮", "title": "신선함", "text": "재료를 꼼꼼히 고르고 당일에 손질합니다." },
+      { "kanji": "匠", "title": "장인 정신", "text": "모든 요리를 기술과 집중으로 완성합니다." },
+      { "kanji": "心", "title": "정성", "text": "오모테나시의 마음으로, 필요하기 전에 먼저 챙깁니다." },
+      { "kanji": "和", "title": "조화", "text": "맛, 색, 계절의 균형을 한 접시에 담습니다." }
+    ],
+    "chef": {
+      "isSample": true,
+      "title": "총괄 셰프",
+      "name": "[셰프 이름]",
+      "role": "총괄 셰프 — 스시 & 일본 요리",
+      "bio": [
+        "샘플 소개글입니다. 수련 과정, 경력, 요리 스타일 등 셰프의 실제 이력으로 바꿔 주세요.",
+        "예: 경력 연수, 대표 요리, 재료에 대한 철학, 손님께 전하고 싶은 말."
+      ],
+      "quote": "생선과 밥, 그리고 만드는 사람이 하나가 될 때 좋은 스시가 됩니다.",
+      "image": "about-chef.jpg"
+    },
+    "journey": {
+      "title": "재료에서 식탁까지",
+      "steps": [
+        { "title": "선별", "text": "신선한 제철 해산물과 재료를 우선합니다." },
+        { "title": "손질", "text": "생선은 위생 기준에 맞춰 손질하고 냉장 보관합니다." },
+        { "title": "조리", "text": "주문이 들어오면 바로 만들어 맛을 지킵니다." },
+        { "title": "배달", "text": "보온 포장으로 영업시간 내에 빠르게 배달합니다." }
+      ]
+    },
+    "sourcing": {
+      "title": "식재료",
+      "text": "해산물 공급처와 협력하며 매일 재료의 품질을 확인합니다. (샘플 문구 — 실제 공급 정보로 업데이트하세요.)",
+      "image": "about-market.jpg"
+    },
+    "closing": { "title": "식탁에서 만나요", "text": "이타다키마스 — 맛있게 드세요!" }
+  },
+  "fr": {
+    "isSample": true,
+    "hero": {
+      "eyebrow": "Notre histoire",
+      "title": "L'esprit du Japon dans chaque assiette",
+      "subtitle": "Des sashimis tranchés à la main aux ramen mijotés pendant des heures, VQT Japanese Food apporte les saveurs du Japon à votre table.",
+      "image": "about-counter.jpg"
+    },
+    "story": {
+      "title": "Nos débuts",
+      "paragraphs": [
+        "VQT Japanese Food est né de l'amour de la cuisine japonaise et de l'envie de rapprocher ses plats raffinés des convives au Vietnam.",
+        "Nous pensons qu'un bon plat commence par des produits frais, une préparation soignée et l'esprit d'hospitalité omotenashi.",
+        "Notre carte réunit sushis, sashimis, grillades, ramen et desserts, entre recettes traditionnelles et goûts d'aujourd'hui."
+      ],
+      "image": "about-hands.jpg"
+    },
+    "values": [
+      { "kanji": "鮮", "title": "Fraîcheur", "text": "Des produits choisis avec soin et préparés le jour même." },
+      { "kanji": "匠", "title": "Savoir-faire", "text": "Chaque plat est achevé avec technique et concentration." },
+      { "kanji": "心", "title": "Attention", "text": "Un service dans l'esprit omotenashi : prévenant avant même que vous demandiez." },
+      { "kanji": "和", "title": "Harmonie", "text": "L'équilibre des saveurs, des couleurs et des saisons dans chaque assiette." }
+    ],
+    "chef": {
+      "isSample": true,
+      "title": "Chef de cuisine",
+      "name": "[Nom du chef]",
+      "role": "Chef de cuisine — sushis et cuisine japonaise",
+      "bio": [
+        "Ceci est un texte d'exemple. Remplacez-le par la vraie biographie du chef : formation, expériences passées et style de cuisine.",
+        "Idées : années d'expérience, plat signature, rapport aux produits et message aux clients."
+      ],
+      "quote": "Un grand sushi naît quand le poisson, le riz et le cuisinier ne font plus qu'un.",
+      "image": "about-chef.jpg"
+    },
+    "journey": {
+      "title": "Du produit à la table",
+      "steps": [
+        { "title": "Sélection", "text": "Priorité aux produits de la mer frais et de saison." },
+        { "title": "Préparation", "text": "Le poisson est préparé et conservé au froid selon les normes d'hygiène." },
+        { "title": "Cuisine", "text": "Chaque plat est préparé à la commande pour garder toute sa saveur." },
+        { "title": "Livraison", "text": "Emballage isotherme et livraison rapide pendant le service." }
+      ]
+    },
+    "sourcing": {
+      "title": "Nos produits",
+      "text": "Nous travaillons avec des fournisseurs de produits de la mer et contrôlons la qualité chaque jour. (Texte d'exemple — à remplacer par les vraies informations d'approvisionnement.)",
+      "image": "about-market.jpg"
+    },
+    "closing": { "title": "À bientôt à table", "text": "Itadakimasu — bon appétit !" }
+  }
+}
